@@ -111,17 +111,28 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 ---
 
-### 🌍 A Statistical Approach to Analyzing the Human Development Index (HDI)
-> Academic paper analyzing UN member states' development levels using multivariate statistical methods.
+### 🌍 Linear Discriminant Analysis on Human Development Index
+> Mathematics thesis project. Multivariate statistical analysis of 193 UN member states
+> using unsupervised clustering and supervised dimensionality reduction.
+> *İzmir University of Economics, Dept. of Mathematics — 2024*
 
-- Applied **K-Means Clustering** to categorize 190+ UN member states by HDI components (health, education, income)
-- Used **Linear Discriminant Analysis (LDA)** to identify the most discriminating variables across development groups
-- Produced comparative cross-regional analysis with visualizations
+- Sourced and preprocessed HDI dataset (193 countries) covering **Life Expectancy Index,
+  Education Index, and Income Index** — applied standardization to ensure equal feature
+  weighting
+- Applied **Elbow Method** to determine optimal cluster count; executed **K-Means
+  Clustering** (K=3 and K=4) with fixed random seed for reproducibility
+- Validated clustering results using **Linear Discriminant Analysis (LDA)** — maximized
+  between-class scatter (S_B) relative to within-class scatter (S_W) via eigenvalue
+  decomposition of S_W⁻¹ S_B
+- Computed full **covariance matrices**, **projection vectors**, and **transformed
+  subspaces** (Y = XW) step by step; verified alignment between LDA-predicted groups
+  and predefined HDI categories
+- Demonstrated that HDI sub-indices reliably separate development tiers — findings
+  support data-driven resource allocation for humanitarian crisis response
 
-**Stack:** Python · pandas · scikit-learn · Matplotlib · Seaborn
+**Stack:** R · K-Means Clustering · Linear Discriminant Analysis · Statistical Modeling
 
 📄 [Read the Paper →](https://github.com/serhatbaliik/serhatbaliik/blob/main/hdi_paper.pdf)
-
 ---
 
 ### 🚦 Dynamic Traffic Flow Optimization Using Network Flow Models
