@@ -32,7 +32,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 | LinkedIn | GitHub | Email |
 |:---:|:---:|:---:|
-|[<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/lin.png" width="60px">](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png)](https://github.com/serhatbaliik) | [<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png" width="60px">](https://github.com/serhatbaliik) |
+|[<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/lin.png" width="60px">](https://linkedin.com/in/serhatbal%C4%B1k) | [<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png" width="60px">](https://github.com/serhatbaliik) | [<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mail.png" width="60px">](mailto:serhat_serhatt@outlook.com) |
 
 </div>
 
