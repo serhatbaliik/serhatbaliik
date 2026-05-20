@@ -13,17 +13,14 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+I'm a  **Mathematician** , specializing in **data analysis** and **financial analytics**. I build end-to-end analytical solutions — from raw data processing to interactive dashboards and statistical reporting.
 
-I'm a **Mathematician** passionate about transforming raw data into **actionable insights** that drive business and financial decisions. My expertise lies in statistical modeling, building analytical pipelines, and creating dashboards that enable data-driven decision-making.
+- 📊 **Data Analysis** — Python-based EDA, statistical modeling, trend detection, spatial analysis
+- 💰 **Financial Analysis** — sales reconciliation, budget tracking, KPI reporting (Power BI & Excel)
+- 🔬 **Academic Research** — İzmiRisk project: water security risk modeling across İzmir's 11 districts
+- 🏢 **Corporate Experience** — Unilever (Algida), TNC Group, Teşvik 360°
 
-- **Data Analysis & Reporting** — Python-based EDA, KPI dashboards, automated reporting with Power BI & Excel.
-- **Statistical Modeling** — Mann-Kendall trend analysis, Moran's I spatial statistics, bootstrap & Monte Carlo simulation.
-- **Financial Analytics** — sales reconciliation, budget tracking, and financial performance reporting.
-- **Python (pandas, NumPy, Matplotlib, Seaborn, SciPy)** — data cleaning, automation, and advanced visualizations.
-- **SQL** — high-performance queries and reproducible analysis workflows.
-- **Academic Research** — İzmiRisk: water security risk index modeling across İzmir's 11 districts (Streamlit + Gemini API).
-
+> Currently seeking **Data Analyst** or **Financial Analyst** positions.
 ---
 
 ## 🛠 Data & Analytics Stack
