@@ -15,14 +15,14 @@
 
 <img align="right" alt="Data Analytics" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-I'm a **Mathematics student** passionate about transforming raw data into **actionable insights** that drive business and financial decisions. My expertise lies in statistical modeling, building analytical pipelines, and creating dashboards that enable data-driven decision-making.
+I'm a **Mathematics graduate** passionate about transforming raw data into **actionable insights** that drive business and financial decisions. My expertise lies in statistical modeling, building analytical pipelines, and creating dashboards that enable data-driven decision-making.
 
-- **Data Analysis & Reporting** — Python-based EDA, KPI dashboards, automated reporting with Power BI & Excel.
-- **Statistical Modeling** — Mann-Kendall trend analysis, Moran's I spatial statistics, bootstrap & Monte Carlo simulation.
-- **Financial Analytics** — sales reconciliation, budget tracking, and financial performance reporting.
-- **Python (pandas, NumPy, Matplotlib, Seaborn, SciPy)** — data cleaning, automation, and advanced visualizations.
-- **SQL** — high-performance queries and reproducible analysis workflows.
-- **Academic Research** — water security risk index modeling, HDI clustering analysis, network flow optimization.
+- 📊 **Data Analysis & Reporting** — Python-based EDA, KPI dashboards, automated reporting with Power BI & Excel.
+- 📐 **Statistical Modeling** — Hypothesis testing, regression analysis, time series decomposition, Mann-Kendall trend analysis, Moran's I spatial autocorrelation, bootstrap & Monte Carlo simulation, K-Means clustering, LDA, PCA, entropy weighting, network flow optimization.
+- 💰 **Financial Analytics** — sales reconciliation, budget tracking, financial performance reporting and dashboard design.
+- 🐍 **Python (pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)** — data cleaning, automation, and advanced visualizations.
+- 🗄️ **SQL** — high-performance queries and reproducible analysis workflows.
+- 🔬 **Academic Research** — water security risk index modeling, HDI clustering analysis, traffic flow optimization — all presented in academic papers and workshops.
 
 > Currently seeking **Data Analyst** or **Financial Analyst** positions.
 
@@ -34,7 +34,7 @@ I'm a **Mathematics student** passionate about transforming raw data into **acti
 
 | LinkedIn | GitHub | Email |
 |:---:|:---:|:---:|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serhatbaliik) | [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serhat_serhatt@outlook.com) |
+| [![LinkedIn](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/lin.png)](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png)](https://github.com/serhatbaliik) | [![Email](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mail.png)](mailto:serhat_serhatt@outlook.com) |
 
 </div>
 
@@ -84,25 +84,33 @@ I'm a **Mathematics student** passionate about transforming raw data into **acti
 ### 💧 İzmiRisk — Water Security Risk Dashboard
 > Faculty-approved academic research project. Streamlit web application analyzing Water Security Risk Index (WSRI) scores across İzmir's 11 central districts (2010–2023).
 
+🌐 **Live App:** [izmirisk.streamlit.app](https://izmirisk.streamlit.app)
+
 - Designed a **composite WSRI** combining 4 key indicators (per capita consumption, population growth rate, supply constraints, water loss rate) using **entropy-based weighting** derived from real İZSU open data
 - Extended the real 4-year dataset to a **14-year synthetic time series** (2010–2023) via bootstrap resampling, enabling robust long-term trend analysis
 - Applied **Mann-Kendall trend testing** for monotonic trend detection and **Moran's I spatial autocorrelation** for district-level clustering behavior
 - Generated **2030 risk projections** under 3 CAGR-based scenarios (Optimistic / Base / Pessimistic) with comparative district-level reporting
-- Built an **interactive Streamlit dashboard** with Power BI-like KPI cards, dynamic filters, scenario simulator, choropleth-ready district maps, and automated CSV export
+- Built an **interactive Streamlit dashboard** with KPI cards, dynamic filters, scenario simulator, and automated CSV export
 - Produced district-level policy recommendation reports based on statistical outputs
 
 **Stack:** Python · Streamlit · pandas · NumPy · SciPy · Statsmodels · Plotly · Git
 
 ---
 
-### 📊 Sales Analysis Excel Dashboard
-> Interactive Excel dashboard analyzing monthly sales performance across employees, regions, and product categories.
+### 📊 Sales Performance Dashboard — Excel & Power BI
+> Interactive sales analytics dashboard analyzing monthly performance across employees, regions, and product categories.
 
-- Built dynamic reporting structure using **pivot tables, slicers, and map charts**
-- Designed KPI tracking system highlighting top-performing employees and best-selling products
-- Enabled data-driven decision-making through automated monthly refresh logic
+- Tracked **total revenue, profit margin, and unit sales** with dynamic KPI cards and top performer rankings
+- Built **product-based and city-based revenue breakdowns** using bar charts and geographic visualizations
+- Designed **employee performance tracking** with monthly trend lines and gender distribution analysis
+- Enabled month-by-month drill-down via **pivot tables and interactive slicers**
+- Dashboard screenshot:
 
-**Stack:** Excel (Advanced) · Power BI
+<div align="center">
+  <img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/dash.png" width="85%"/>
+</div>
+
+**Stack:** Excel (Advanced) · Power BI · Pivot Tables · Data Visualization
 
 ---
 
@@ -115,7 +123,7 @@ I'm a **Mathematics student** passionate about transforming raw data into **acti
 
 **Stack:** Python · pandas · scikit-learn · Matplotlib · Seaborn
 
-📄 *Paper available in repository*
+📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/hdi_paper.pdf)
 
 ---
 
@@ -128,7 +136,7 @@ I'm a **Mathematics student** passionate about transforming raw data into **acti
 
 **Stack:** Python · NetworkX · NumPy · Matplotlib
 
-📄 *Paper and poster available in repository*
+📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf) · 🖼️ [Poster (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_poster.pdf)
 
 ---
 
