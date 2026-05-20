@@ -13,73 +13,122 @@
 
 ## 🚀 About Me
 
-I'm a  **Mathematician** , specializing in **data analysis** and **financial analytics**. I build end-to-end analytical solutions — from raw data processing to interactive dashboards and statistical reporting.
+<img align="right" alt="Data Analytics" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-- 📊 **Data Analysis** — Python-based EDA, statistical modeling, trend detection, spatial analysis
-- 💰 **Financial Analysis** — sales reconciliation, budget tracking, KPI reporting (Power BI & Excel)
-- 🔬 **Academic Research** — İzmiRisk project: water security risk modeling across İzmir's 11 districts
-- 🏢 **Corporate Experience** — Unilever (Algida), TNC Group, Teşvik 360°
+I'm a **Mathematics student** passionate about transforming raw data into **actionable insights** that drive business and financial decisions. My expertise lies in statistical modeling, building analytical pipelines, and creating dashboards that enable data-driven decision-making.
+
+- **Data Analysis & Reporting** — Python-based EDA, KPI dashboards, automated reporting with Power BI & Excel.
+- **Statistical Modeling** — Mann-Kendall trend analysis, Moran's I spatial statistics, bootstrap & Monte Carlo simulation.
+- **Financial Analytics** — sales reconciliation, budget tracking, and financial performance reporting.
+- **Python (pandas, NumPy, Matplotlib, Seaborn, SciPy)** — data cleaning, automation, and advanced visualizations.
+- **SQL** — high-performance queries and reproducible analysis workflows.
+- **Academic Research** — water security risk index modeling, HDI clustering analysis, network flow optimization.
 
 > Currently seeking **Data Analyst** or **Financial Analyst** positions.
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+| LinkedIn | GitHub | Email |
+|:---:|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serhatbaliik) | [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serhat_serhatt@outlook.com) |
+
+</div>
+
 ---
 
 ## 🛠 Data & Analytics Stack
 
 **Languages & Databases**
+> Python · SQL · PostgreSQL · MySQL · SQLite
+
+**Data Analysis & Manipulation**
+> pandas · NumPy · SciPy · Statsmodels
+
+**Visualization & BI**
+> Matplotlib · Seaborn · Plotly · Power BI · Excel · Streamlit
+
+**Statistical Methods**
+> Descriptive & Inferential Statistics · Hypothesis Testing · Regression Analysis ·
+> Time Series Analysis · Mann-Kendall Trend Test · Moran's I Spatial Autocorrelation ·
+> Bootstrap & Monte Carlo Simulation · Entropy Weighting · K-Means Clustering ·
+> Linear Discriminant Analysis (LDA) · PCA · A/B Testing · Network Flow Optimization
+
+**Tools & Workflow**
+> Git · GitHub · Jupyter · Google Colab · VS Code
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-
-**BI & Reporting**
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Statistical Methods**
-
-![Mann-Kendall](https://img.shields.io/badge/Mann--Kendall%20Trend-1D9E75?style=flat)
-![Moran's I](https://img.shields.io/badge/Moran's%20I%20Spatial-1D9E75?style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20%2F%20Monte%20Carlo-1D9E75?style=flat)
-![Entropy Weighting](https://img.shields.io/badge/Entropy%20Weighting-1D9E75?style=flat)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 💧 İzmiRisk — Water Security Risk Dashboard
-> Faculty-approved academic research project. Streamlit web app analyzing WSRI scores across İzmir's 11 central districts (2010–2023).
+> Faculty-approved academic research project. Streamlit web application analyzing Water Security Risk Index (WSRI) scores across İzmir's 11 central districts (2010–2023).
 
-- Multi-indicator **Water Security Risk Index (WSRI)** with entropy-based weighting
-- **Mann-Kendall** trend analysis + **Moran's I** spatial autocorrelation
-- **Bootstrap / Monte Carlo** simulation extending 4-year dataset → 14-year synthetic time series
-- AI assistant integration via **Gemini API**
-- Interactive district-level filtering, KPI dashboards, animated counters
+- Designed a **composite WSRI** combining 4 key indicators (per capita consumption, population growth rate, supply constraints, water loss rate) using **entropy-based weighting** derived from real İZSU open data
+- Extended the real 4-year dataset to a **14-year synthetic time series** (2010–2023) via bootstrap resampling, enabling robust long-term trend analysis
+- Applied **Mann-Kendall trend testing** for monotonic trend detection and **Moran's I spatial autocorrelation** for district-level clustering behavior
+- Generated **2030 risk projections** under 3 CAGR-based scenarios (Optimistic / Base / Pessimistic) with comparative district-level reporting
+- Built an **interactive Streamlit dashboard** with Power BI-like KPI cards, dynamic filters, scenario simulator, choropleth-ready district maps, and automated CSV export
+- Produced district-level policy recommendation reports based on statistical outputs
 
-**Stack:** Python · Streamlit · pandas · SciPy · Statsmodels · Gemini API · Git
+**Stack:** Python · Streamlit · pandas · NumPy · SciPy · Statsmodels · Plotly · Git
 
 ---
 
-### 📊 Financial & Sales Analytics — Internship Projects
-> Sales reconciliation, budget tracking, and KPI reporting dashboards built during corporate internships.
+### 📊 Sales Analysis Excel Dashboard
+> Interactive Excel dashboard analyzing monthly sales performance across employees, regions, and product categories.
 
-- **Unilever (Algida):** Sales data reconciliation workflows and automated reporting
-- **TNC Group:** Financial analysis pipelines and budget tracking systems
-- **Teşvik 360°:** Incentive program data processing and analytics
+- Built dynamic reporting structure using **pivot tables, slicers, and map charts**
+- Designed KPI tracking system highlighting top-performing employees and best-selling products
+- Enabled data-driven decision-making through automated monthly refresh logic
 
-**Stack:** Excel · Power BI · Python · pandas
+**Stack:** Excel (Advanced) · Power BI
+
+---
+
+### 🌍 A Statistical Approach to Analyzing the Human Development Index (HDI)
+> Academic paper analyzing UN member states' development levels using multivariate statistical methods.
+
+- Applied **K-Means Clustering** to categorize 190+ UN member states by HDI components (health, education, income)
+- Used **Linear Discriminant Analysis (LDA)** to identify the most discriminating variables across development groups
+- Produced comparative cross-regional analysis with visualizations
+
+**Stack:** Python · pandas · scikit-learn · Matplotlib · Seaborn
+
+📄 *Paper available in repository*
+
+---
+
+### 🚦 Dynamic Traffic Flow Optimization Using Network Flow Models
+> Academic research presented at a workshop, modeling urban traffic as a directed graph optimization problem.
+
+- Modeled urban intersections as **directed graphs** and applied **network flow theory** to optimize traffic routing
+- Evaluated model performance against real-world traffic data through **scenario-based simulations**
+- Findings presented at an **academic workshop** with a published poster and paper
+
+**Stack:** Python · NetworkX · NumPy · Matplotlib
+
+📄 *Paper and poster available in repository*
 
 ---
 
@@ -100,7 +149,6 @@ I'm a  **Mathematician** , specializing in **data analysis** and **financial ana
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatbaliik&layout=compact&theme=default&hide_border=true" />
 </div>
 
-<!-- EKLENDI: Trophy bölümü -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -108,15 +156,6 @@ I'm a  **Mathematician** , specializing in **data analysis** and **financial ana
 </div>
 
 ---
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/serhatbal%C4%B1k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/serhatbaliik)
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=100&section=footer" width="100%"/>
