@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- DEĞIŞTI: capsule-render yerine kendi görselin -->
-<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/Data.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/Data.png" width="75%"/>
 
-<!-- Profil görüntülenme sayacı -->
+# 👋 Hi, I'm Serhat
+### Data Analyst · Financial Analyst · Mathematics
+
 <img src="https://komarev.com/ghpvc/?username=serhatbaliik&color=185FA5&style=flat&label=Profile+Views" alt="profile views"/>
 
 </div>
