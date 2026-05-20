@@ -32,7 +32,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 | LinkedIn | GitHub | Email |
 |:---:|:---:|:---:|
-| [![LinkedIn](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/lin.png)](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png)](https://github.com/serhatbaliik) | [![Email](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mail.png)](mailto:serhat_serhatt@outlook.com) |
+|[<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/lin.png" width="60px">](https://linkedin.com/in/serhatbal%C4%B1k) | [![GitHub](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/git.png)](https://github.com/serhatbaliik) | [![Email](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mail.png)](mailto:serhat_serhatt@outlook.com) |
 
 </div>
 
@@ -120,7 +120,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 **Stack:** Python · pandas · scikit-learn · Matplotlib · Seaborn
 
-📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/hdi_paper.pdf)
+📄 [Read the Paper →](https://github.com/serhatbaliik/serhatbaliik/blob/main/hdi_paper.pdf)
 
 ---
 
@@ -133,7 +133,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 **Stack:** Python · NetworkX · NumPy · Matplotlib
 
-📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf)
+📄 [Read the Paper →](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf)
 
 ---
 
@@ -163,38 +163,27 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 | Certificate | Link |
 |---|---|
-| Oracle SQL Developer | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/k5fukyphfw) |
-| Querying MS SQL | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/kbramowip1) |
-| Introduction to Data Science and Artificial Intelligence | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/7twh5dygnf) |
-| Python Programming for Data Science | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/n4wzyyefd5) |
+| Oracle SQL Developer | [View Certificate](https://learning.miuul.com/certificates/k5fukyphfw) |
+| Querying MS SQL | [View Certificate](https://learning.miuul.com/certificates/kbramowip1) |
+| Introduction to Data Science and Artificial Intelligence | [View Certificate](https://learning.miuul.com/certificates/7twh5dygnf) |
+| Python Programming for Data Science | [View Certificate](https://learning.miuul.com/certificates/n4wzyyefd5) |
 
 ---
 
-### Diğer — 2024
+### Microfon — 2024
 
 <div align="center">
 
 **Temel Finansal Okuryazarlık ve Yatırım Süreçleri**
 Microfon · Haz 2024
 
-[📄 Sertifikayı Görüntüle](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mic.pdf)
+[📄 View Certificate](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mic.pdf)
 
 </div>
 
 ---
 
-### Diğer — 2026
 
-<div align="center">
-
-**Oracle SQL Developer**
-Miuul · Mar 2026
-
-<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/oracle.png" width="480px"/>
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
