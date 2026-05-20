@@ -144,7 +144,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 **Stack:** Python · NetworkX · NumPy · Matplotlib
 
-📄 [Read the Paper →](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf)
+## 📄 [Read the Paper →](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf)
 
 ---
 
