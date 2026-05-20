@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
 I'm a **Mathematics graduate** passionate about transforming raw data into **actionable insights** that drive business and financial decisions. My expertise lies in statistical modeling, building analytical pipelines, and creating dashboards that enable data-driven decision-making.
 
 - 📊 **Data Analysis & Reporting** — Python-based EDA, KPI dashboards, automated reporting with Power BI & Excel.
@@ -104,7 +102,6 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 - Built **product-based and city-based revenue breakdowns** using bar charts and geographic visualizations
 - Designed **employee performance tracking** with monthly trend lines and gender distribution analysis
 - Enabled month-by-month drill-down via **pivot tables and interactive slicers**
-- Dashboard screenshot:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/dash.png" width="85%"/>
@@ -136,7 +133,7 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 
 **Stack:** Python · NetworkX · NumPy · Matplotlib
 
-📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf) · 🖼️ [Poster (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_poster.pdf)
+📄 [Paper (PDF)](https://github.com/serhatbaliik/serhatbaliik/blob/main/traffic_paper.pdf)
 
 ---
 
@@ -147,6 +144,55 @@ I'm a **Mathematics graduate** passionate about transforming raw data into **act
 | Unilever (Algida) | Sales Analytics | Reconciliation, reporting pipelines |
 | TNC Group | Financial Analysis | Budget tracking, KPI dashboards |
 | Teşvik 360° | Data Processing | Incentive analytics, data workflows |
+
+---
+
+## 🎓 Certifications
+
+### Udemy — 2024
+
+| Certificate | Topic |
+|---|---|
+| [Python A-Z™: Veri Bilimi ve Machine Learning (50 Saat)](https://www.udemy.com/course-dashboard-redirect/?course_id=2310884) | Python · Data Science · ML |
+| [MS Excel: Sıfırdan İleri Seviye Excel Öğren](https://www.udemy.com/course-dashboard-redirect/?course_id=1901106) | Excel · Advanced |
+| [Power BI: Sıfırdan Uzmanlığa Veri Analizi ve Görselleştirme](https://www.udemy.com/course-dashboard-redirect/?course_id=4747772) | Power BI · Data Visualization |
+
+---
+
+### Miuul — 2026
+
+| Certificate | Link |
+|---|---|
+| Oracle SQL Developer | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/k5fukyphfw) |
+| Querying MS SQL | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/kbramowip1) |
+| Introduction to Data Science and Artificial Intelligence | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/7twh5dygnf) |
+| Python Programming for Data Science | [Sertifikayı Görüntüle](https://learning.miuul.com/certificates/n4wzyyefd5) |
+
+---
+
+### Diğer — 2024
+
+<div align="center">
+
+**Temel Finansal Okuryazarlık ve Yatırım Süreçleri**
+Microfon · Haz 2024
+
+[📄 Sertifikayı Görüntüle](https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/mic.pdf)
+
+</div>
+
+---
+
+### Diğer — 2026
+
+<div align="center">
+
+**Oracle SQL Developer**
+Miuul · Mar 2026
+
+<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/oracle.png" width="480px"/>
+
+</div>
 
 ---
 
