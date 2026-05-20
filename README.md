@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animasyonlu banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=200&section=header&text=Hi,%20I'm%20Serhat%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Financial%20Analyst%20%7C%20Mathematics&descAlignY=58&descSize=18" width="100%"/>
+<!-- DEĞIŞTI: capsule-render yerine kendi görselin -->
+<img src="https://raw.githubusercontent.com/serhatbaliik/serhatbaliik/main/Data.png" width="100%"/>
 
 <!-- Profil görüntülenme sayacı -->
 <img src="https://komarev.com/ghpvc/?username=serhatbaliik&color=185FA5&style=flat&label=Profile+Views" alt="profile views"/>
@@ -98,6 +98,13 @@ I'm a **final-year Mathematics student** at İzmir Ekonomi Üniversitesi, specia
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=serhatbaliik&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatbaliik&layout=compact&theme=default&hide_border=true" />
+</div>
+
+<!-- EKLENDI: Trophy bölümü -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=serhatbaliik&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
